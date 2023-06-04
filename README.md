@@ -11,7 +11,7 @@ application with any dependencies.
 3. Download and install [Heroku CLI](https://devcenter.heroku.com/articles/getting-started-with-python#set-up)
 4. Download and install [git](https://git-scm.com/downloads)
 5. Copy your script or project to this repository's folder
-6. Replace "script.py" with the path to your main executable file in
+6. Replace "main.py" with the path to your main executable file in
    `Procfile`. For details about `Procfile` refer to the [docs](https://devcenter.heroku.com/articles/procfile).
    If you need to run web application, you have to use `web` instead of `worker`.
 7. You may select your python version and runtime using `runtime.txt`. Read
