@@ -1,1 +1,1 @@
-worker: python main.py
+العامل: python Script.py
